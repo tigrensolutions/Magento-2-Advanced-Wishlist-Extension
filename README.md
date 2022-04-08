@@ -75,4 +75,4 @@ Although the main email content will be edited by the customers, the admin can c
 
 <h2><span style="font-size: medium; color: #000080;">Select which social networks to display</span></h2>
   
-The <strong>Advanced </strong><b>Wishlist Extension</b> provides 4 social network options for store owners including <b><em>Facebook, Twitter, Pinterest,</em></b> and <b><em>Google Plus</em></b>. However, the admin can select to display all of these channels or only a few of them. Furthermore, you can choose whether to show the total number of like and share next to sharing buttons. For more information, <a href="https://www.tigren.com/magento-2-extensions" rel="dofollow">Click here.</a>
+The <strong>Advanced </strong><b>Wishlist Extension</b> provides 4 social network options for store owners including <b><em>Facebook, Twitter, Pinterest,</em></b> and <b><em>Google Plus</em></b>. However, the admin can select to display all of these channels or only a few of them. Furthermore, you can choose whether to show the total number of like and share next to sharing buttons. For more information, <a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">click here.</a>
